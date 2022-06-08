@@ -1,0 +1,10 @@
+.cat{
+    filter: brightness(75%);
+}
+
+@media all and (max-width: 767px){
+    .banner-responsive{
+        height: 250px;
+        object-fit: cover;
+    }
+}
